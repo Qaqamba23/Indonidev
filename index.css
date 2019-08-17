@@ -1,0 +1,14 @@
+.heading{
+    text-align: left; 
+    color: blue;
+     font-size: 40px;
+       } 
+.Website{ 
+    color: blueviolet;  
+   } 
+.myimagestyle { 
+    background-size:cover;
+    background-image: url("bgimg.jpg");
+}
+h2{font-size: 40px}
+b{font-size: 40px;color:yellowgreen}
